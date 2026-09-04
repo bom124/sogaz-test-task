@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "sogaz-test-task",
+    "name": "Коллекция идей",
     "slug": "sogaz-test-task",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "experiments": { "reactCompiler": true },
     "ios": {
       "supportsTablet": true
     },
